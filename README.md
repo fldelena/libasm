@@ -1,2 +1,3 @@
 # libasm
-some assembler  of school 21 
+
+Recoding certain functions of the standard C Library, but in x86-64 Intel Assembly.
