@@ -1,3 +1,3 @@
 # libasm
 
-Recoding certain functions of the standard C Library, but in x86-64 Intel Assembly.
+Перекодировка некоторых функций стандартной библиотеки C, но в x86-64 Intel Assembly.
